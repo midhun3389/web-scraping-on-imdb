@@ -1,3 +1,3 @@
  - web-scraping-on-imdb
- - code to retrieve data on the movies from imdb website
+ - code to retrieve data on the top 250 movies from imdb website
  - dependencies = pandas, beautifulsoup.
